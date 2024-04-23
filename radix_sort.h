@@ -1,6 +1,3 @@
-// This is the header file for the Radix Sort algorithm
-// It's called "radix_sort.h"
-
 // This is a header guard to prevent the file from being included multiple times
 // It checks if RADIX_SORT_H is not defined, and if not, it defines it
 #ifndef RADIX_SORT_H
